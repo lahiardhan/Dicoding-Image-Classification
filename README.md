@@ -1,1 +1,1 @@
-# Dicoding-Image-Classification
+# Submission Proyek Akhir Kelas Dicoding "Belajar achine Learning untuk Pemula"
